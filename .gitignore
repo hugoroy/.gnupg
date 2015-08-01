@@ -1,0 +1,7 @@
+.gpg-v21-migrated
+crls.d
+private-keys-v1.d
+pubring*
+random_*
+secring*
+trustdb*
